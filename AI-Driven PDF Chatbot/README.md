@@ -73,4 +73,4 @@ Make sure to install these dependencies using the provided `requirements.txt` fi
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the **LICENSE** file for details.
