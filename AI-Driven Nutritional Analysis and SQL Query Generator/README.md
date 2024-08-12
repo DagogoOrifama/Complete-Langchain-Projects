@@ -2,6 +2,8 @@
 
 This project is a Q&A Chatbot application that leverages the power of Google's Gemini model, a large language model (LLM) capable of multimodal analysis, to analyze images and provide detailed nutritional information. Additionally, it includes a module to convert natural language questions into SQL queries. The application is built using Streamlit and allows users to upload an image, input a prompt, and receive a response detailing the nutritional content of the food items in the image or SQL query results based on user questions.
 
+![Streamlit Application Interface](https://github.com/DagogoOrifama/Complete-Langchain-Projects/blob/e1c2e4392bbda46dc462dfc7fbf1fcdecdc16a6c/AI-Driven%20Nutritional%20Analysis%20and%20SQL%20Query%20Generator/app_interface.png)
+
 ## Features
 
 - **Image Upload**: Users can upload images in JPG, JPEG, or PNG formats.
